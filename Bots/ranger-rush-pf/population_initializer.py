@@ -1,3 +1,0 @@
-import evolution
-
-evolution.intializePopulation()
